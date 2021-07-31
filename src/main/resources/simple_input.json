@@ -1,0 +1,22 @@
+{
+  "machine": {
+    "outlets": {
+      "count_n": 10
+    },
+    "total_items_quantity": {
+      "hot_water": 500,
+      "coffee_powder": 500,
+      "tea_bag": 500
+    },
+    "beverages": {
+      "green_tea": {
+        "hot_water": 100,
+        "tea_bag": 100
+      },
+      "coffee": {
+        "hot_water": 100,
+        "coffee_powder": 100
+      }
+    }
+  }
+}
